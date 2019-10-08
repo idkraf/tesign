@@ -1,5 +1,5 @@
 <?php
-    //starting instal tabel users: php getApplicant.php
+    //starting instal tabel users: php instal.php
     require_once 'config/database.php';
     class instalData{
         public $path = 'instaldb/users.sql';
