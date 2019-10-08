@@ -24,8 +24,8 @@
 - Authorization: none
 
 # Struktur folder
- config
- -- database.php
+ ### config
+ ### -- database.php
  controllers
  -- getData.php
  -- requestData.php
