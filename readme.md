@@ -26,15 +26,15 @@
 # Struktur folder
  ### config
  ### -- database.php
- controllers
- -- getData.php
- -- requestData.php
- instaldb
- -- users.sql
- model
- --modelUser.php
- getApplicant.php
- instal.php
+ ### controllers
+ ### -- getData.php
+ ### -- requestData.php
+ ### instaldb
+ ### -- users.sql
+ ### model
+ ### --modelUser.php
+ ### getApplicant.php
+ ### instal.php
 
 # Tutorial instalasi 
   (example with xampp - biasa digunakan untuk VPS server dengan remote desktop)
